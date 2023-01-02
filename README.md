@@ -24,5 +24,31 @@
 |x|1文字削除|
 |u|undo|
 |ctrl+r|redo|
+
+
+## 入力
+|コマンド|内容|
+|---|---|
 |i|インサートモード|
 |a|次の文字からインサートモード|
+|o|改行してインサートモード|
+
+## 検索/置換
+|コマンド|内容|
+|---|---|
+|/serch|検索|
+|n|次の検索結果へ移動|
+|N|前の検索結果へ移動|
+|:%s/search/replace/g|一括置換|
+|:%s/search/replace/gc|確認しながら置換|
+
+## vimの設定
+set shell=/bin/zsh
+set shiftwidth=4
+set tabstop=4
+set textwidth=0
+set expandtab
+set autoindent
+set hlsearch
+set clipboard=unnamed
+syntax on

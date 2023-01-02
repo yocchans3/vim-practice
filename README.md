@@ -43,6 +43,7 @@
 |:%s/search/replace/gc|確認しながら置換|
 
 ## vimの設定
+```
 set shell=/bin/zsh
 set shiftwidth=4
 set tabstop=4
@@ -52,3 +53,4 @@ set autoindent
 set hlsearch
 set clipboard=unnamed
 syntax on
+```

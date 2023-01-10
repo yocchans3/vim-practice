@@ -54,3 +54,10 @@ set hlsearch
 set clipboard=unnamed
 syntax on
 ```
+
+# tmux
+<img width="1348" alt="image" src="https://user-images.githubusercontent.com/29517703/211590663-21947989-7357-490a-ad8f-655f11c20c0f.png">
+<img width="1335" alt="image" src="https://user-images.githubusercontent.com/29517703/211590938-9d9d399e-9621-4b90-bd66-a7f8a3452c68.png">
+
+
+set hlsearch
